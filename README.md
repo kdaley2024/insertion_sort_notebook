@@ -8,5 +8,9 @@ I am a Junior
 Yay I will graduate soon
 
 ### Adding a figure
-![alt text for screen readers](./fish.png).
+![alt text for screen readers](./https://jupyterbook.org/en/stable/_images/fun-fish.png).
+
+''' Python
+print("Hello World!")
+...
 
