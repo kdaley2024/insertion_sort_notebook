@@ -1,8 +1,5 @@
 # insertion_sort_notebook
 
-:::{figure-md} markdown-fig
 <img src="https://jupyterbook.org/en/stable/_images/fun-fish.png" alt="fishy" class="bg-primary mb-1" width="200px">
 
-This is a caption in **Markdown**!
-:::
 
