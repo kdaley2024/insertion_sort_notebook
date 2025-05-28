@@ -1,5 +1,4 @@
 # insertion_sort_notebook
 
-<img src="https://jupyterbook.org/en/stable/_images/fun-fish.png" alt="fishy" class="bg-primary mb-1" width="200px">
 
 
