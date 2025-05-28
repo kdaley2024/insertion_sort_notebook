@@ -8,5 +8,5 @@ I am a Junior
 Yay I will graduate soon
 
 ### Adding a figure
-![alt text for screen readers](fish.png).
+![alt text for screen readers](./fish.png).
 
