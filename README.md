@@ -8,9 +8,22 @@ I am a Junior
 Yay I will graduate soon
 
 ### Adding a figure
-![alt text for screen readers](./https://jupyterbook.org/en/stable/_images/fun-fish.png).
+![alt text for screen readers](https://jupyterbook.org/en/stable/_images/fun-fish.png)
 
-''' Python
+```Python
 print("Hello World!")
-...
+```
+## Math
 
+$$
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+$$
+
+Matrix: 
+
+\begin{bmatrix}
+	x_{11} & x_{12} & x_{13} & \dots & x_{1n} \\
+	x_{21} & x_{22} & x_{23} & \dots & x_{2n} \\
+	\vdots & \vdots & \vdots & \ddots & \vdots \\
+	x_{d1} & x_{d2} & x_{d3} & \dots & x_{dn}
+\end{bmatrix}
